@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+    place-items: center;
+    display: grid;
+    background: rgb(129, 133, 139);
+}
+img {
+    width: 500px;
+    height: 300px;
+}
+input {
+    margin-left: 125px;
+    margin-top: 20px;
+}
