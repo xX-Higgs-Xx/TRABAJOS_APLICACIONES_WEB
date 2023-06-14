@@ -1,0 +1,36 @@
+#titulo{
+    color:blue
+}
+
+p.especial{
+    color:blueviolet
+}
+p.texto{
+    color:tomato;
+}
+div p{
+    color:aquamarine;
+}
+div h2, div h3{
+    color:brown;
+}
+
+*{
+    font-size: 24px;
+    color:black;
+}
+
+/* .color{
+    color: #00f;
+    -------------------
+.color{
+    color: rgb(120, 200, 005)
+}
+} */
+.color{
+    /* border: 5px blue outset; */
+    border-style:outset;
+    border-color: tomato;
+    border-radius: 5px;
+    border-width: .5px;
+}
