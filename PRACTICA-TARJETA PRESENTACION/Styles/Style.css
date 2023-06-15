@@ -1,0 +1,26 @@
+
+
+body{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 250px;
+    background-color: rgb(71, 176, 237);
+}
+
+.child{
+    background-color:rgb(219, 230, 246);
+}
+.head{
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
